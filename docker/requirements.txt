@@ -1,0 +1,7 @@
+tensorflow==2.7.*
+tensorflow_probability==0.15.*
+numpy
+pandas
+scikit-learn
+tables
+matplotlib
